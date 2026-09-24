@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
