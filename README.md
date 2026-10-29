@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhinavsahu2739-art/LEETCODE/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
